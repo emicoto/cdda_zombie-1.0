@@ -1,0 +1,27 @@
+IGUI_CN = {
+
+	IGUI_CDDA_CrawlerZ = "爬行者",
+	IGUI_CDDA_SkeletonZ = "骷髅",	
+
+	IGUI_CDDA_RunnerZ = "追猎者",
+	IGUI_CDDA_SkeletonRunnerZ = "骷髅追猎者",
+
+	IGUI_CDDA_StrongZ = "健壮丧尸",
+	IGUI_CDDA_FatZ = "肥胖丧尸",
+	IGUI_CDDA_WitchZ = "巫妖丧尸",
+	IGUI_CDDA_BruteZ = "狂暴丧尸兽",
+	IGUI_CDDA_WrestlerZ = "摔跤手丧尸",
+	IGUI_CDDA_ScreamerZ = "尖叫丧尸",
+	IGUI_CDDA_SurvivorZ = "幸存者丧尸",
+	IGUI_CDDA_ListenerZ= "循声者丧尸",
+	IGUI_CDDA_BiterZ= "流涎啃噬者",
+	IGUI_CDDA_GrabberZ= "肉钩丧尸",
+	IGUI_CDDA_NormalZ = "丧尸",
+	IGUI_CDDA_CopZ = "警察丧尸",
+	IGUI_CDDA_FiremanZ = "消防员丧尸",
+	IGUI_CDDA_SoldierZ = "士兵丧尸",
+	IGUI_CDDA_MasterZ = "主宰丧尸",
+	IGUI_CDDA_ChildZ = "儿童丧尸",
+	IGUI_CDDA_HazmatZ = "防化员丧尸",
+
+}

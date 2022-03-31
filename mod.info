@@ -1,0 +1,14 @@
+name=CDDA Zombies Edit
+id=CDDAZombieEdit
+description=Adds several types of zombies from CDDA. Following types of zombies will show their names when following player:
+description=-Necromancer: Reanimate nearby corpses.
+description=-Zombie Wrestler: Will push you away when attacking.
+description=-Zombie Brute: A runner version of Zombie Wrestler.
+description=-添加了几种CDDA中的丧尸，下列丧尸在追逐玩家时会显示名字：
+description=-巫妖丧尸: 能够复活其附近的尸体
+description=-摔跤手丧尸: 攻击时会推击玩家
+description=-狂暴丧尸兽: 摔跤手的跑尸版
+pzversion=41
+authors=HW_Lover
+poster=poster.png
+

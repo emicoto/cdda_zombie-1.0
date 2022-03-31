@@ -1,0 +1,295 @@
+VERSION = 1,
+
+option CDDAZombies.SandBox
+{
+	type = boolean,
+	default = true,
+	page = CDDA_Zombies,
+	translation = CDDA_SandBox,
+}
+
+option CDDAZombies.OutfitZ
+{
+	type = boolean,
+	default = true,
+	page = CDDA_Zombies,
+	translation = CDDA_OutfitZ,
+}
+
+option CDDAZombies.NameTag
+{
+	type = boolean,
+	default = true,
+	page = CDDA_Zombies,
+	translation = CDDA_NameTag,
+}
+
+option CDDAZombies.EvoFactor
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 50,
+	page = CDDA_Zombies,
+	translation = CDDA_EvoFactor,
+}
+
+option CDDAZombies.Crawler
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 50,
+	page = CDDA_Zombies,
+	translation = CDDA_CrawlerZ,
+}
+
+option CDDAZombies.Skeleton
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 30,
+	page = CDDA_Zombies,
+	translation = CDDA_SkeletonZ,
+}
+
+option CDDAZombies.Feral
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 40,
+	page = CDDA_Zombies,
+	translation = CDDA_RunnerZ,
+}
+
+option CDDAZombies.FeralStartHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 23,
+	page = CDDA_Zombies,
+	translation = CDDA_RunnerZ_starthour,
+}
+
+option CDDAZombies.FeralEndHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 6,
+	page = CDDA_Zombies,
+	translation = CDDA_RunnerZ_endhour,
+}
+
+option CDDAZombies.SkeletonFeral
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 10,
+	page = CDDA_Zombies,
+	translation = CDDA_SkeletonRunnerZ,
+}
+
+option CDDAZombies.SkeletonFeralStartHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 23,
+	page = CDDA_Zombies,
+	translation = CDDA_SkeletonRunnerZ_starthour,
+}
+
+option CDDAZombies.SkeletonFeralEndHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 6,
+	page = CDDA_Zombies,
+	translation = CDDA_SkeletonRunnerZ_endhour,
+}
+
+option CDDAZombies.Tough
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 150,
+	page = CDDA_Zombies,
+	translation = CDDA_StrongZ,
+}
+
+option CDDAZombies.Fat
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 150,
+	page = CDDA_Zombies,
+	translation = CDDA_FatZ,
+}
+
+option CDDAZombies.Necromancer
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 10,
+	page = CDDA_Zombies,
+	translation = CDDA_WitchZ,
+}
+
+option CDDAZombies.NecromancerStartHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 23,
+	page = CDDA_Zombies,
+	translation = CDDA_WitchZ_starthour,
+}
+
+option CDDAZombies.NecromancerEndHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 6,
+	page = CDDA_Zombies,
+	translation = CDDA_WitchZ_endhour,
+}
+
+option CDDAZombies.Brute
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 10,
+	page = CDDA_Zombies,
+	translation = CDDA_BruteZ,
+}
+
+option CDDAZombies.Wrestler
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 30,
+	page = CDDA_Zombies,
+	translation = CDDA_WrestlerZ,
+}
+
+option CDDAZombies.Screamer
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 10,
+	page = CDDA_Zombies,
+	translation = CDDA_ScreamerZ,
+}
+
+option CDDAZombies.ScreamerStartHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 23,
+	page = CDDA_Zombies,
+	translation = CDDA_ScreamerZ_starthour,
+}
+
+option CDDAZombies.ScreamerEndHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 6,
+	page = CDDA_Zombies,
+	translation = CDDA_ScreamerZ_endhour,
+}
+
+option CDDAZombies.Listener
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 50,
+	page = CDDA_Zombies,
+	translation = CDDA_ListenerZ,
+}
+
+option CDDAZombies.ListenerStartHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 23,
+	page = CDDA_Zombies,
+	translation = CDDA_ListenerZ_starthour,
+}
+
+option CDDAZombies.ListenerEndHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 6,
+	page = CDDA_Zombies,
+	translation = CDDA_ListenerZ_endhour,
+}
+
+option CDDAZombies.Grabber
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 50,
+	page = CDDA_Zombies,
+	translation = CDDA_GrabberZ,
+}
+
+option CDDAZombies.Master
+{
+	type = integer,
+	min = 0,
+	max = 1000,
+	default = 10,
+	page = CDDA_Zombies,
+	translation = CDDA_MasterZ,
+}
+
+option CDDAZombies.MasterStartHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 23,
+	page = CDDA_Zombies,
+	translation = CDDA_MasterZ_starthour,
+}
+
+option CDDAZombies.MasterEndHour
+{
+	type = integer,
+	min = 0,
+	max = 23,
+	default = 2,
+	page = CDDA_Zombies,
+	translation = CDDA_MasterZ_endhour,
+}
+
+option CDDAZombies.Normal
+{
+	type = integer,
+	min = 1,
+	max = 1000,
+	default = 350,
+	page = CDDA_Zombies,
+	translation = CDDA_NormalZ,
+}

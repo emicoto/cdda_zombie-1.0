@@ -1,0 +1,66 @@
+Sandbox_CN = {
+	Sandbox_CDDA_SandBox = "覆盖沙盒模式丧尸设定",
+	Sandbox_CDDA_SandBox_tooltip = "强制采用CDDA的丧尸设定，若取消，游戏会尽量应用沙盒模式设定，但部分丧尸会无法出现",
+	Sandbox_CDDA_OutfitZ = "基于着装生成特定丧尸",
+	Sandbox_CDDA_OutfitZ_tooltip = "是否生成特殊着装丧尸，如：警察，消防员，士兵，防化服，儿童",
+	Sandbox_CDDA_NameTag = "显示丧尸种类",
+	Sandbox_CDDA_NameTag_tooltip = "是否在瞄准时显示鼠标指向的丧尸的名称",
+	Sandbox_CDDA_EvoFactor = "丧尸进化速率",
+	Sandbox_CDDA_EvoFactor_tooltip = "数字越大进化越快，0则不进化",
+	Sandbox_CDDA_Zombies = "CDDA丧尸生成率",
+	Sandbox_CDDA_RunnerZ = "野性追猎者生成率",
+	Sandbox_CDDA_StrongZ = "健壮丧尸生成率",
+	Sandbox_CDDA_FatZ = "肥胖丧尸生成率",
+	Sandbox_CDDA_SkeletonZ = "骷髅生成率",
+	Sandbox_CDDA_SkeletonRunnerZ = "骷髅追猎者生成率",
+	Sandbox_CDDA_CrawlerZ = "爬行丧尸生成率",
+	Sandbox_CDDA_WitchZ = "巫妖丧尸生成率",
+	Sandbox_CDDA_BruteZ = "狂暴丧尸兽生成率",
+	Sandbox_CDDA_WrestlerZ = "摔跤手丧尸生成率",
+	Sandbox_CDDA_ScreamerZ = "尖叫丧尸生成率",
+	Sandbox_CDDA_SurvivorZ = "幸存者丧尸生成率",
+	Sandbox_CDDA_ListenerZ = "循声者丧尸生成率",
+	Sandbox_CDDA_BiterZ = "流涎啃噬者生成率",
+	Sandbox_CDDA_NormalZ = "普通丧尸生成率",
+	Sandbox_CDDA_RunnerZ_tooltip = "普通跑尸",
+	Sandbox_CDDA_StrongZ_tooltip = "无法推倒的普通丧尸",
+	Sandbox_CDDA_FatZ_tooltip = "无法推倒，速度较慢的普通丧尸",
+	Sandbox_CDDA_SkeletonZ_tooltip = "血量较低的骷髅",
+	Sandbox_CDDA_SkeletonRunnerZ_tooltip = "血量较低能够奔跑的骷髅",
+	Sandbox_CDDA_CrawlerZ_tooltip = "爬行的普通丧尸",
+	Sandbox_CDDA_WitchZ_tooltip = "速度较慢，会复活其附近的丧尸尸体（复活的丧尸种类随机）",
+	Sandbox_CDDA_BruteZ_tooltip = "能够奔跑并在攻击时推开玩家的丧尸",
+	Sandbox_CDDA_WrestlerZ_tooltip = "能够在攻击时推开玩家的丧尸",
+	Sandbox_CDDA_ScreamerZ_tooltip = "能够在追击玩家时尖叫的丧尸",
+	Sandbox_CDDA_SurvivorZ_tooltip = "保留些许人类认知的丧尸",
+	Sandbox_CDDA_ListenerZ_tooltip = "更容易被尖叫声吸引的丧尸",
+	Sandbox_CDDA_BiterZ_tooltip = "能够传染可怕病毒的丧尸",
+	Sandbox_CDDA_MasterZ = "主宰丧尸生成率",
+	Sandbox_CDDA_MasterZ_tooltip = "能够进化附近丧尸的丧尸"
+	Sandbox_CDDA_GrabberZ = "肉钩丧尸生成率",
+	Sandbox_CDDA_GrabberZ_tooltip = "能够抓住玩家使之减速的丧尸"
+	Sandbox_CDDA_NormalZ_tooltip = "普通丧尸",
+
+	Sandbox_CDDA_Crawler_StartTime = "爬者出现时间",
+	Sandbox_CDDA_Crawler_EndTime = "爬者消失时间",
+
+
+	Sandbox_CDDA_RunnerZ_starthour = "追猎者出现时间",
+	Sandbox_CDDA_RunnerZ_endhour = "追猎者消失时间",
+
+	Sandbox_CDDA_SkeletonRunnerZ_starthour = "骷髅追猎者出现时间",
+	Sandbox_CDDA_SkeletonRunnerZ_endhour = "骷髅追猎者消失时间",
+
+	Sandbox_CDDA_WitchZ_starthour = "巫妖出现时间",
+	Sandbox_CDDA_WitchZ_endhour = "巫妖消失时间",
+
+	Sandbox_CDDA_ListenerZ_starthour = "循声者出现时间",
+	Sandbox_CDDA_ListenerZ_endhour = "循声者消失时间",
+
+	Sandbox_CDDA_ScreamerZ_starthour = "尖叫者出现时间",
+	Sandbox_CDDA_ScreamerZ_endhour = "尖叫者消失时间",
+
+	Sandbox_CDDA_MasterZ_starthour = "主宰出现时间",
+	Sandbox_CDDA_MasterZ_endhour = "主宰消失时间",
+
+}
